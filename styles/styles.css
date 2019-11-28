@@ -26,9 +26,10 @@ body {
 /* Start Container */
 
 .container {
-  margin: 10px auto;
+  margin-left: 5%;
+  /* margin: 10px auto; */
   overflow: auto;
-  width: 95%;
+  width: 94.5%;
   
 }
 
@@ -215,9 +216,10 @@ text-align: justify;
 .box-heading {
   background-color: #70d6da;
   border: 1px solid #d2d1da;
-  border-radius:3px 3px 0 0;
-  margin: 0;
-  padding: 10px 20px;
+  border-radius:1px 1px 0 0;
+  margin-left: 2%;
+  /* margin: 0; */
+  padding: 2px 5px;
   text-transform: uppercase;
   width:94,5%;
   
@@ -225,13 +227,15 @@ text-align: justify;
 }
 .box-heading h4 {
   font-size: 14px;
-  margin:0;
+  margin-left: 2%;
+  /* margin:0; */
 }
 .box-isi {
   background-color: #f6f8fa;
   border: 1px solid #d1d5da;
   border-radius: 0;
-  margin: 0;
+  margin-left: 2%;
+  /* margin: 0; */
   padding: 10px 20 px;
 }
 
@@ -1048,8 +1052,8 @@ transform: translateY(-100%);
 }
 
 .bg-green1{
-  width: 90.5%;
-  margin-left: 50px;;
+  width: 85.5%;
+  margin-left: 8%;
   background-color: rgb(186, 223, 235);
 }
 
